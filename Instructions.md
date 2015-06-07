@@ -1,8 +1,8 @@
-﻿# Getting-and-Cleaning-Data-course
+﻿# Exploratory Data Analysis course
 This is a repository to be used during the course of "Exploratory Data Analysis".
 
 ## Course Project 1
-To run this script, please do the following:
+To run the scripts for this first project, please do the following:
 
 * Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to a local directory
 
